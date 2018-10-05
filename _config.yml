@@ -3,26 +3,27 @@ title: Aaron Blog
 SEOTitle: Aaron的博客 | BY Aaron
 header-img: img/earth.png
 email: 2013301580011@whu.edu.cn
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 子易的博客, Aaron, iOS, Apple, iPhone"
+description: "Thinks globally, act locally."
+keyword: "Aaron的博客, Travel, Book, Photograph"
 url: "https://aaronli1.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Stay hungry, stay passionate!"
+sidebar-about-description: "Thinks globally, act locally."
 sidebar-avatar: /img/IMG_4028.JPG    # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
+
+zhihu_username:     Aaron
+github_username:    Aaronli1
 # weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
+#facebook_username:  baiying.qiu.7
+#jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
 
 
