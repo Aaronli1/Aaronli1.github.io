@@ -4,7 +4,7 @@ SEOTitle: Aaron的博客 | BY Aaron
 header-img: img/earth.png
 email: 2013301580011@whu.edu.cn
 description: "Thinks globally, act locally."
-keyword: "Aaron的博客, Travel, Book, Photograph"
+keyword: "Aaron Blog, Travel, Book, Photograph"
 url: "https://aaronli1.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
@@ -21,8 +21,8 @@ RSS: false
 
 
 github_username:    Aaronli1
-zhihu_username:     13297029195
-weibo_username:     易Aaronli
+#zhihu_username:     13297029195
+#weibo_username:     易Aaronli
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
