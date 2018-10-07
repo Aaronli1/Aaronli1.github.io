@@ -102,7 +102,7 @@ service-worker: true
 friends: [
     {
         title: "Wuhan University",
-        href: "http://www.whu.edu.cn"
+        href: "http://en.whu.edu.cn"
     }
     ,{
         title: "School of Water Resource and Hydropower Engineering",
