@@ -21,8 +21,8 @@ RSS: false
 
 
 github_username:    Aaronli1
-weibo_username:     aaronli_zy
-zhihu_username:     Aaronlizy
+#weibo_username:     aaronli_zy
+#zhihu_username:     Aaronlizy
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
@@ -114,7 +114,7 @@ friends: [
         title: "Nature",
         href: "https://www.nature.com"
     },{
-        title: "Loney Planet",
+        title: "Lonely Planet",
         href: "https://www.lonelyplanet.com"
     }
 ]
